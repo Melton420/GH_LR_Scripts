@@ -1,0 +1,13 @@
+{
+	"startTime": "2021-02-09T21:19:28Z",
+	"endTime": "2021-02-09T21:19:33Z",
+	"elapsedTime": "00:00:04",
+	"status": "Passed",
+	"iterations": 1,
+	"statistics": {
+		"New Connections": 3,
+		"Total Hits": 132,
+		"Total BytesSent": 58935,
+		"Total Throughput": 3796163
+	}
+}
