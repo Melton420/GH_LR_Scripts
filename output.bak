@@ -1,0 +1,360 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 2/24/2026 10:49:04 AM
+Starting action vuser_init.
+Web Turbo Replay of Opentext Performance Engineering 2026.1.0 for Windows 2019; build 610 (Jan 13 2026 17:52:51)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\demo\Documents\VuGen\Scripts\lr-vugen-aos-shopping\AOS_Shopping\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+The addtional attribute TranTime was set to 2.000000
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.0369).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.5001).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 5.5989).
+Ending action T00_AOS.
+Ending iteration 1.
+Waiting 9.7080 seconds for iteration pacing.
+Starting iteration 2.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.3676).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.7674).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 3.0006).
+Ending action T00_AOS.
+Ending iteration 2.
+Waiting 12.7060 seconds for iteration pacing.
+Starting iteration 3.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.8714).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.9837).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 4.5739).
+Ending action T00_AOS.
+Ending iteration 3.
+Waiting 10.4110 seconds for iteration pacing.
+Starting iteration 4.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.4108).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 12.1821).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 5.6724).
+Ending action T00_AOS.
+Ending iteration 4.
+Waiting 8.5750 seconds for iteration pacing.
+Starting iteration 5.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 5.0425).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.5059).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 4.9176).
+Ending action T00_AOS.
+Ending iteration 5.
+Waiting 9.3760 seconds for iteration pacing.
+Starting iteration 6.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.5334).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.5861).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 7.6633).
+Ending action T00_AOS.
+Ending iteration 6.
+Waiting 7.0640 seconds for iteration pacing.
+Starting iteration 7.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.7752).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.8204).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 9.3169).
+Ending action T00_AOS.
+Ending iteration 7.
+Waiting 5.9280 seconds for iteration pacing.
+Starting iteration 8.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.5040).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.7345).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 8.7476).
+Ending action T00_AOS.
+Ending iteration 8.
+Waiting 7.8540 seconds for iteration pacing.
+Starting iteration 9.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.6627).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.3787).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 9.8490).
+Ending action T00_AOS.
+Ending iteration 9.
+Waiting 6.9510 seconds for iteration pacing.
+Starting iteration 10.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.1404).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.7610).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 13.3284).
+Ending action T00_AOS.
+Ending iteration 10.
+Waiting 0.6110 seconds for iteration pacing.
+Starting iteration 11.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.8381).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.8583).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 13.3443).
+Ending action T00_AOS.
+Ending iteration 11.
+Waiting 1.8020 seconds for iteration pacing.
+Starting iteration 12.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.7432).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.1780).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 17.3579).
+Ending action T00_AOS.
+Ending iteration 12.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 31.44).
+Starting iteration 13.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.5318).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.9056).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 19.1701).
+Ending action T00_AOS.
+Ending iteration 13.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 33.76).
+Starting iteration 14.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.5945).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.2184).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 20.9294).
+Ending action T00_AOS.
+Ending iteration 14.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 34.88).
+Starting iteration 15.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.9622).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 8.8156).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 23.3385).
+Ending action T00_AOS.
+Ending iteration 15.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 36.27).
+Starting iteration 16.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 5.0844).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.9101).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 26.5153).
+Ending action T00_AOS.
+Ending iteration 16.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 43.67).
+Starting iteration 17.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 5.0005).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.2634).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 32.8424).
+Ending action T00_AOS.
+Ending iteration 17.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 47.26).
+Starting iteration 18.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.0378).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.5312).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 36.1623).
+Ending action T00_AOS.
+Ending iteration 18.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 50.89).
+Starting iteration 19.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.9558).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.7008).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 41.7859).
+Ending action T00_AOS.
+Ending iteration 19.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 55.60).
+Starting iteration 20.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.8802).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.5321).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 48.6683).
+Ending action T00_AOS.
+Ending iteration 20.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 62.23).
+Starting iteration 21.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 5.1071).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.1887).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 59.7513).
+Ending action T00_AOS.
+Ending iteration 21.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 76.20).
+Starting iteration 22.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.9248).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.5611).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(116): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 70.9501).
+Ending action T00_AOS.
+Ending iteration 22.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 84.59).
+Starting iteration 23.
+Starting action T00_AOS.
+Warning: Failed to get NV emulation handle.
+T00_AOS.c(74): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(74): Warning: Failed to get NV emulation handle.
+T00_AOS.c(76): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.3478).
+T00_AOS.c(78): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(78): Warning: Failed to get NV emulation handle.
+T00_AOS.c(80): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.0936).
+T00_AOS.c(82): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(82): Warning: Failed to get NV emulation handle.
+T00_AOS.c(101): Notify: Transaction "T03_Purchase" ended with a "Stop" status (Duration: 85.1945).
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.
